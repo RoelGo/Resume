@@ -1,4 +1,7 @@
 body {
-    min-height: 2000px;
-    padding-top: 275px;
+    padding-top: 17vw;
+}
+
+img {
+    padding: 1vw;
 }
