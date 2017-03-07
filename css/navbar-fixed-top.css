@@ -1,7 +1,13 @@
 body {
-    padding-top: 17vw;
+    padding-top: 11em;
+}
+
+nav {
+    max-height: 10em;
 }
 
 img {
-    padding: 1vw;
+    padding: 1em;
+    width: 10em;
+    height: 10em;
 }
